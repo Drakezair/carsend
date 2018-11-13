@@ -1,7 +1,7 @@
 {
   "main.css": "/carsend/static/css/main.b199717f.chunk.css",
-  "main.js": "/carsend/static/js/main.7e49a571.chunk.js",
-  "main.js.map": "/carsend/static/js/main.7e49a571.chunk.js.map",
+  "main.js": "/carsend/static/js/main.42186eb2.chunk.js",
+  "main.js.map": "/carsend/static/js/main.42186eb2.chunk.js.map",
   "static/js/1.9dcbcc5f.chunk.js": "/carsend/static/js/1.9dcbcc5f.chunk.js",
   "static/js/1.9dcbcc5f.chunk.js.map": "/carsend/static/js/1.9dcbcc5f.chunk.js.map",
   "runtime~main.js": "/carsend/static/js/runtime~main.596243dc.js",
@@ -10,6 +10,6 @@
   "static/media/car.png": "/carsend/static/media/car.6fb7bf85.png",
   "static/media/re.css": "/carsend/static/media/Login.957427b8.jpg",
   "index.html": "/carsend/index.html",
-  "precache-manifest.9d64eb7ed182bfc19a50e862311235f6.js": "/carsend/precache-manifest.9d64eb7ed182bfc19a50e862311235f6.js",
+  "precache-manifest.430e2a0e3717eb4c3e7bf996914251fc.js": "/carsend/precache-manifest.430e2a0e3717eb4c3e7bf996914251fc.js",
   "service-worker.js": "/carsend/service-worker.js"
 }
