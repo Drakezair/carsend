@@ -48,13 +48,15 @@ class Card extends PureComponent {
             nombre: this.props.post.val().nombre !== this.state.nombre ? this.state.nombre : this.props.post.val().nombre,
             url: this.props.post.val().url !== this.state.url ? this.state.url : this.props.post.val().url,
         })
-        window.open('/carsend/app', '_self')
+        window.location.reload();
+        
     }
     
     borrar(){
         var user = firebase.auth().currentUser.uid;
         firebase.database().ref(`users/${user}/posts/${this.props.post.key}`).remove();
-        window.open('/carsend/app', '_self')
+        window.location.reload();
+        
     }
 
       
