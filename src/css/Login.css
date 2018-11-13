@@ -1,0 +1,56 @@
+.ContainWrap {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background: url(../assets/img/Login.jpg);
+    background-size: cover;
+}
+
+.Wrap {
+    position: relative;
+    width: 400px;
+    background: rgba(34, 34, 34, 0.836);
+    border-radius: 6px;
+    margin-right: 200px;
+    padding: 10px;
+    text-align: center;
+}
+
+.logo {
+    height: 60px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+input {
+    height: 40px;
+    width: 90%;
+    border: 1px solid rgb(124, 124, 124);
+    border-radius: 4px;
+    margin: 5px 0;
+    padding: 0 5px;
+    font-size: 18px;
+}
+
+.enviar {
+    width: 100px;
+    height: 40px;
+    background: #cf281e;
+    color: #fff;
+    font-weight: bold;
+    display: block;
+    margin: 5px auto 10px;
+}
+
+.reb {
+    color: #fff;
+    text-decoration: none;
+    margin-top: 10px;
+}

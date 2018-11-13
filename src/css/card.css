@@ -1,0 +1,27 @@
+.CardContain {
+    background: #f1f1f1;
+    width: 300px;
+    border-radius: 8px;
+    position: relative;
+    z-index: 0;
+    border: 1px solid #2f2f2f;
+}
+
+.CardContain:hover {
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 10;
+    box-shadow: #2f2f2f 0px 0px 15px;
+}
+
+.info {
+    padding: 5px 10px;
+}
+
+.modelo{
+    margin: 2px;
+}
+
+.Dueño {
+    margin: 2px;
+}
