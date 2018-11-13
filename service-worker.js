@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/carsend/precache-manifest.a1d0a05ec616f18a029e2aca6eaab344.js"
+  "/carsend/precache-manifest.8897b9d634a42e6137a9db773fc0391b.js"
 );
 
 workbox.clientsClaim();
