@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/carsend/static/js/runtime~main.596243dc.js"
   },
   {
-    "revision": "fde3ddf366cf8ad0f9ab",
-    "url": "/carsend/static/js/main.fde3ddf3.chunk.js"
+    "revision": "bdf037d814d5b4ea74b5",
+    "url": "/carsend/static/js/main.bdf037d8.chunk.js"
   },
   {
     "revision": "973e522f8c859ee79e1b",
     "url": "/carsend/static/js/1.973e522f.chunk.js"
   },
   {
-    "revision": "fde3ddf366cf8ad0f9ab",
-    "url": "/carsend/static/css/main.b199717f.chunk.css"
+    "revision": "bdf037d814d5b4ea74b5",
+    "url": "/carsend/static/css/main.02b518dd.chunk.css"
   },
   {
-    "revision": "b33efccd5551f7010ad9ce1e82dd5276",
+    "revision": "0fd76d5c5fe127b4c3296c9833ffb13b",
     "url": "/carsend/index.html"
   }
 ];
